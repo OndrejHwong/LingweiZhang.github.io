@@ -1,8 +1,7 @@
-## Welcome to Journal Club with specialization in Neuroscience
+## Welcome to my homepage!
 
-Journal Club with specialization in Neuroscience (JCR) is an in-the-flash activity of FDU URPB (Undergraduate Research Program in Biology). Each week, an undergraduate student in FDU will share others with recent research or independent projects about neuroscience.
 
-### Schedule for 2020 Spring
+### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
