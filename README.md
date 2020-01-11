@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Journal Club with specialization in Neuroscience
 
-You can use the [editor on GitHub](https://github.com/LingweiZhang/LingweiZhang.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Journal Club with specialization in Neuroscience (JCR) is an in-the-flash activity of FDU URPB (Undergraduate Research Program in Biology). Each week, an undergraduate student in FDU will share others with recent research or independent projects about neuroscience.
 
 ### Markdown
 
